@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on ** React, Next.js,Angular.js, Nodejs, MongoDB**
+- 🔭 I’m currently working on ** Servicenow, React, Next.js, Angular.js, Nodejs**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
